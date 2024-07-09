@@ -38,6 +38,4 @@ Bu dosya, eğitilen modeli test etmek için kullanılır. Modelin doğruluğunu 
 ### Kurulum
 
 ```bash
-git clone https://github.com/kullanici_adi/ses-analiz-modeli.git
-cd ses-analiz-modeli
-pip install -r requirements.txt
+git clone https://github.com/SuleymanSelimPirinc/Python-Deep-Learning-Project.git
